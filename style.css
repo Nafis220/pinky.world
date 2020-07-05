@@ -1,0 +1,50 @@
+.container 
+{
+    margin-bottom: 100px 
+}
+
+.slider-color
+{
+    background-color: #dfec86;
+    border-radius: 10px;
+
+}
+.carousel-item
+{
+    padding: 10px 20px ;
+    border-radius:10px ;
+}
+.price 
+{
+    color:#857785;
+}
+.cat1
+{
+background-image: linear-gradient(to left, #980082 , #ee74dc);
+
+}
+.cat2
+{
+    background-image:linear-gradient(to left, #8bc050 , #b7b32b););
+}
+.cat3
+{
+    background-image:linear-gradient(to left, #009198 , #b18729);
+}
+.cat1, .cat2, .cat3
+{
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.pauruti
+{
+    padding-right: 5px;
+}
+.categoris h1 
+{
+    color:white
+}
+.categoris img 
+{
+    width :100px;
+}
